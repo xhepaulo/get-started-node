@@ -15,6 +15,8 @@
     "url": "https://github.com/IBM-Cloud/get-started-node"
   },
   "dependencies": {
+    "node-telegram-bot-api": "0.24.0",
+    "watson-developer-cloud": "^2.8.1"
     "@cloudant/cloudant": "^4.3.0",
     "body-parser": "^1.19.0",
     "cfenv": "^1.2.2",
